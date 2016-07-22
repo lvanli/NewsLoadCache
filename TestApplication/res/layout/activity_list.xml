@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/list_main_view" >
+    
+	<ProgressBar 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:id="@+id/list_main_progress"></ProgressBar>
+	<TextView 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:gravity="center"
+	    android:visibility="gone"
+	    android:text="@string/error_net"
+	    android:id="@+id/list_main_text"></TextView>
+	<ListView 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:id="@+id/list_main_list"
+	    android:visibility="gone"></ListView>
+</merge>

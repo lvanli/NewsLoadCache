@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">TestApplication</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button">click</string>
+    <string name="first">第一个</string>
+    <string name="second">第二个</string>
+    <string name="increase">增加</string>
+    <string name="reduce">减少</string>
+    <string name="save">保存</string>
+    <string name="list">列表</string>
+    <string name="get">获取</string>
+    <string name="error_net">网络错误</string>
+    <string name="handler">Handle</string>
+    <string name="long_text">this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! 
+        this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! 
+        this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! this is very long! 
+        </string>
+
+</resources>
